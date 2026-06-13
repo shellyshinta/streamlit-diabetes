@@ -1,6 +1,7 @@
-streamlit
-scikit-learn
-pip==25.3
-imbalanced-learn==0.13.0
-joblib==1.5.1
-matplotlib==3.10.3
+streamlit>=1.46.0
+pandas>=2.2.3
+numpy>=2.2.0
+matplotlib>=3.10.0
+scikit-learn>=1.7.0
+imbalanced-learn>=0.14.0
+joblib>=1.5.0
